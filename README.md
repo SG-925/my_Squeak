@@ -1,3 +1,11 @@
+Photos of the completed build: 
+<img width="4032" height="3024" alt="1776388285426-p4q6q9" src="https://github.com/user-attachments/assets/c5175d6f-e851-4dfc-a475-3d6cde4363ef" />
+<img width="3024" height="4032" alt="1776388281137-rvniou" src="https://github.com/user-attachments/assets/a76c70d3-9f52-425f-801b-cb7fa94a3130" />
+<img width="3024" height="4032" alt="1776388275017-spfyg9" src="https://github.com/user-attachments/assets/ac2a7661-3be2-4188-9da3-cc0c7c8fe0c8" />
+
+
+
+
 [JOURNAL.md](https://github.com/user-attachments/files/26363101/JOURNAL.md)# my_Squeak
 Custom Ergonomic Mouse
 <img width="550" height="452" alt="image" src="https://github.com/user-attachments/assets/bc8ecc5b-025d-42da-8ca4-7dc52d412427" />
